@@ -13,7 +13,7 @@
 </div>
 <div style="width:200px; height:400px; float: left;">
     <p align="center">
-      <img src=https://hacks.codes/wp-content/uploads/2022/02/img.gif, width= "200px">
+      <img src=https://hacks.codes/wp-content/uploads/2022/02/img.gif width= "200px">
     </p>
 </div>
 
