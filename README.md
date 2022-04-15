@@ -7,7 +7,7 @@
         <br>🎈 Hi! I design for GitHub.<br>
         <br>I'm interested in recommender system <br>using deep learning, machine learning
         <br>also studying Java & MySQL <br> to become a full-stack developer📖<br>
-        <br>My motto is "Persistence beats talent"<br>👊👊<br>
+        <br>My motto is "Persistence beats talent"<br>👊👊<br>(By the way, my profile picture is my dog "Kong❤️")
       </samp>
     </p>
 </div>
