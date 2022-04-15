@@ -5,8 +5,8 @@
         <br>
       <samp>
         <br>🎈 Hi! I design for GitHub.<br>
-        <br>I'm interested in recommender system <br>using deep learning
-        <br>also studying to become <br>full-stack developer📖<br>
+        <br>I'm interested in recommender system <br>using deep learning, machine learning
+        <br>also studying Java & MySQL <br> to become a full-stack developer📖<br>
         <br>My motto is "Persistence beats talent"<br>👊👊<br>
       </samp>
     </p>
