@@ -11,7 +11,7 @@
       </samp>
     </p>
 </div>
-<div style="width:250px; height:400px; float: left;">
+<div style="width:250px; height:400px; float: ;">
     <p align="center">
       <img src="https://mblogthumb-phinf.pstatic.net/MjAxOTA3MjVfMjQ3/MDAxNTY0MDUzNzA4Mzcz.WZegXFHMBw58TdduAEpEWl1wzKC_LcOJ5cOoGB596-Qg.Uix3z2f8vZWRq70l7Krrkq0mGsQoPDsZWLpH7eaqZJYg.GIF.zxcv_0207/16c2889c260394ab8.gif?type=w800" width="250px">
     </p>
