@@ -1,4 +1,4 @@
-<div style="width:440px; height:400px; float: left;margin-right:10px;">
+<div style="width:350px; height:400px; float: left;margin-right:10px;">
     <p align="center">
         <br>
         <img src="https://i.pinimg.com/originals/9d/9f/d1/9d9fd196fa5d40637f115431cf75683e.gif" width="45px">
@@ -11,11 +11,12 @@
       </samp>
     </p>
 </div>
-<div style="width:250px; height:400px; float: ;">
+<div style="width:200px; height:400px; float: left;">
     <p align="center">
-      <img src="https://mblogthumb-phinf.pstatic.net/MjAxOTA3MjVfMjQ3/MDAxNTY0MDUzNzA4Mzcz.WZegXFHMBw58TdduAEpEWl1wzKC_LcOJ5cOoGB596-Qg.Uix3z2f8vZWRq70l7Krrkq0mGsQoPDsZWLpH7eaqZJYg.GIF.zxcv_0207/16c2889c260394ab8.gif?type=w800" width="250px">
+      <img src="https://mblogthumb-phinf.pstatic.net/MjAxOTA3MjVfMjQ3/MDAxNTY0MDUzNzA4Mzcz.WZegXFHMBw58TdduAEpEWl1wzKC_LcOJ5cOoGB596-Qg.Uix3z2f8vZWRq70l7Krrkq0mGsQoPDsZWLpH7eaqZJYg.GIF.zxcv_0207/16c2889c260394ab8.gif?type=w800" width="300px">
     </p>
 </div>
+
 
 
 
