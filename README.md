@@ -2,7 +2,7 @@
     <p align="center">
         <br>
         <img src="https://i.pinimg.com/originals/9d/9f/d1/9d9fd196fa5d40637f115431cf75683e.gif" width="45px">
-        <br><br>
+        <br>
       <samp>
         <br>🎈 Hi! I design for GitHub.<br>
         <br>I'm interested in recommender system <br>using deep learning
@@ -13,7 +13,7 @@
 </div>
 <div style="width:200px; height:400px; float: left;">
     <p align="center">
-      <img src="https://mblogthumb-phinf.pstatic.net/MjAxOTA3MjVfMjQ3/MDAxNTY0MDUzNzA4Mzcz.WZegXFHMBw58TdduAEpEWl1wzKC_LcOJ5cOoGB596-Qg.Uix3z2f8vZWRq70l7Krrkq0mGsQoPDsZWLpH7eaqZJYg.GIF.zxcv_0207/16c2889c260394ab8.gif?type=w800" width="200px">
+      <img src=https://hacks.codes/wp-content/uploads/2022/02/img.gif>
     </p>
 </div>
 
