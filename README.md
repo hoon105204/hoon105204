@@ -1,7 +1,7 @@
 <div style="width:350px; height:400px; float: left;margin-right:10px;">
     <p align="center">
         <br>
-        <img src="https://i.pinimg.com/originals/9d/9f/d1/9d9fd196fa5d40637f115431cf75683e.gif" width="45px">
+        <img src=".\pikapika.gif" width="45px">
         <br>
       <samp>
         <br>🎈 Hi! I design for GitHub.<br>
