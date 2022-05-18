@@ -1,4 +1,4 @@
-<div style="width:350px; height:400px; float: left;margin-right:10px; font-size:15px;">
+<div style="width:350px; height:400px; float: left;margin-right:10px; font-size:2em;">
     <p align="center">
         <br>
         <img src=".\pikapika.gif" width="45px">
