@@ -1,9 +1,9 @@
 <div style="width:350px; height:400px; float: left;margin-right:10px;">
-    <p align="center" style="font-size:2em;">
+    <p align="center">
         <br>
         <img src=".\pikapika.gif" width="45px">
         <br>
-      <samp>
+      <samp style="font-size:2em;">
         <br>🎈 Hi! I design for GitHub.<br>
         <br>I'm interested in recommender system <br>using deep learning
         <br>also studying to become <br>full-stack developer📖<br>
