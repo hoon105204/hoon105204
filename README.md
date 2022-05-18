@@ -1,5 +1,5 @@
-<div style="width:350px; height:400px; float: left;margin-right:10px; font-size:4em;">
-    <p align="center">
+<div style="width:350px; height:400px; float: left;margin-right:10px;">
+    <p align="center" style="font-size:2em;">
         <br>
         <img src=".\pikapika.gif" width="45px">
         <br>
