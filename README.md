@@ -3,7 +3,7 @@
         <br>
         <img src=".\pikapika.gif" width="45px">
         <br>
-      <samp style="font-size:2em;">
+      <samp>
         <br>🎈 Hi! I design for GitHub.<br>
         <br>I'm interested in recommender system <br>using deep learning
         <br>also studying to become <br>full-stack developer📖<br>
