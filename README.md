@@ -1,7 +1,7 @@
 <div style="width:350px; height:400px; float: left;margin-right:10px;">
     <p align="center">
         <br>
-        <img src=".\pikapika.gif" width="45px">
+        <img src=".\pikapika.gif" width="45">
         <br>
       <samp>
         <br>🎈 Hi! I design for GitHub.<br>
@@ -10,7 +10,7 @@
         <br>My motto is "Persistence beats talent"<br>👊👊<br><br>
         📨contact me here: hoon105204@gmail.com
         <br><br>
-          <img src=".\nyang.gif" width= "100px">
+          <img src=".\nyang.gif" width= "100">
       </samp>
     </p>
 </div>
